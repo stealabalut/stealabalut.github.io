@@ -1,0 +1,683 @@
+[
+  {
+    "enabled": true,
+    "slug": "codes",
+    "pageType": "codes",
+    "navLabel": "Codes",
+    "title": "Steal A Balut Codes (November 2026) & How to Redeem",
+    "description": "Check Steal A Balut codes and developer-listed rewards. Copy each code, see how redemption works, and check when the list was last reviewed.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Codes • Last checked Nov 5, 2026",
+      "heading": "Steal A Balut Codes — Developer-Listed Rewards",
+      "lead": "Copy the three codes currently listed by the developer. Rewards come from the official game description; live redemption has not been independently tested by this site."
+    },
+    "sections": [
+      {
+        "id": "developer-listed-codes",
+        "heading": "Steal A Balut Codes Listed by the Developer",
+        "intro": "The official Steal A Balut Roblox description checked on November 5, 2026 lists three codes. The table preserves the distinction between an official listing and a successful in-game redemption test.",
+        "paragraphs": [
+          "If you came here searching for a code in Steal A Balut or a code for Steal A Balut, start with these three entries. They are the strongest source-backed list available to this launch because the developer itself lists them on the game page.",
+          "A code can remain visible in a description after its redemption behavior changes, so “developer-listed” should not be read as “guaranteed working forever.” This page will only call a code expired after there is reliable evidence that it is expired."
+        ],
+        "table": {
+          "caption": "Developer-listed Steal A Balut codes — checked November 5, 2026",
+          "columns": [
+            "Code",
+            "Reward",
+            "Source status",
+            "Redemption test"
+          ],
+          "rows": [
+            [
+              "RELEASED",
+              "$25,000 Cash",
+              "Listed in official Roblox description",
+              "Not independently tested"
+            ],
+            [
+              "BALUT",
+              "500 Speed",
+              "Listed in official Roblox description",
+              "Not independently tested"
+            ],
+            [
+              "OG",
+              "1,000 Speed + $100,000 Cash",
+              "Listed in official Roblox description",
+              "Not independently tested"
+            ]
+          ],
+          "copyFirstColumn": true
+        }
+      },
+      {
+        "id": "how-to-redeem",
+        "heading": "How to Redeem Codes in Steal A Balut",
+        "intro": "A third-party RobloxDen guide records a Shop → Codes → enter code → Redeem sequence. Because this site did not independently operate the current game client, treat the interface wording as reported guidance and follow the labels you actually see in-game.",
+        "steps": [
+          {
+            "heading": "Open the official game",
+            "description": "Launch Steal A Balut from its official Roblox page so you are using the correct experience rather than a similarly named game."
+          },
+          {
+            "heading": "Look for the code area",
+            "description": "RobloxDen reports that the route starts from Shop and then Codes. If the current interface differs, use the in-game labels rather than forcing an outdated path."
+          },
+          {
+            "heading": "Enter one code exactly",
+            "description": "Copy RELEASED, BALUT or OG exactly as shown. Avoid extra spaces and retype the code if copy-and-paste appears to add formatting."
+          },
+          {
+            "heading": "Redeem and verify the result",
+            "description": "Use the game’s visible Redeem action and confirm the reward in your own client. This site does not claim a live success result it has not observed."
+          }
+        ]
+      },
+      {
+        "id": "why-code-might-not-redeem",
+        "heading": "Why a Steal A Balut Code Might Not Redeem",
+        "paragraphs": [
+          "First check the spelling and confirm that you are in the official Steal A Balut experience. Then compare the code with the current developer listing. Those checks are factual and useful without inventing hidden requirements.",
+          "If a code still does not redeem, the page cannot responsibly assume a region lock, level gate, account-age rule or secret cooldown. Those conditions have not been verified for this launch. The code may have changed, the interface may have been updated, or the account may already have used it; only the game can confirm the exact reason."
+        ],
+        "bullets": [
+          "Match letters exactly and remove accidental spaces.",
+          "Confirm the code is still present in the current official game description.",
+          "Check whether your own account has already redeemed it.",
+          "Do not trust claims of expiry or special requirements without a source."
+        ]
+      },
+      {
+        "id": "new-and-expired",
+        "heading": "Newly Added or Expired Codes",
+        "paragraphs": [
+          "There is no verified expired-code list on this page at launch. That is intentional. A code should move into an expired section only after its status is supported by the game, the developer, or repeatable live testing.",
+          "The current list is therefore a source-status list, not a marketing claim that every code is “100% working.” When the developer adds or removes a code, the review date and table should be updated together so visitors can judge freshness."
+        ]
+      },
+      {
+        "id": "after-redeeming",
+        "heading": "What to Do After Redeeming",
+        "intro": "The listed rewards connect directly to the core game loop.",
+        "paragraphs": [
+          "Cash matters because the official description says players can earn Cash from ducks placed in their base and use progression systems that include speed and tool upgrades. RELEASED and OG both add Cash according to the developer listing.",
+          "Speed is also named directly in the rewards. BALUT lists 500 Speed and OG lists 1,000 Speed. This guide does not translate those values into an unverified percentage, travel-time improvement or “best build.”"
+        ],
+        "links": [
+          {
+            "label": "How to Get Cash in Steal A Balut",
+            "slug": "cash",
+            "description": "Understand the confirmed base Cash loop and what is still unverified."
+          },
+          {
+            "label": "How to Hatch Baluts",
+            "slug": "hatching",
+            "description": "Move from code rewards into the core hatching loop."
+          }
+        ]
+      },
+      {
+        "id": "codes-source-policy",
+        "heading": "How This Codes Page Handles Sources",
+        "paragraphs": [
+          "The primary source for RELEASED, BALUT and OG is the official Roblox game description recorded in the project research on November 5, 2026. Third-party guides are useful for interface context, but they do not override the developer listing without stronger evidence.",
+          "Different third-party code sites were recorded as disagreeing about how many codes were active. That conflict is exactly why this page uses status labels instead of copying the strongest claim. “Developer-listed” and “independently tested” are separate fields."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the newest Steal A Balut codes?",
+        "answer": "As checked on November 5, 2026, the developer-listed codes are RELEASED, BALUT and OG. The official description lists their rewards as $25,000 Cash; 500 Speed; and 1,000 Speed plus $100,000 Cash respectively."
+      },
+      {
+        "question": "How do I redeem Steal A Balut codes?",
+        "answer": "RobloxDen reports a Shop → Codes → enter code → Redeem flow. This site did not independently verify the current client UI, so follow the labels you see in the live game if they differ."
+      },
+      {
+        "question": "Are these Steal A Balut codes guaranteed to work?",
+        "answer": "No. They are listed by the developer in the official game description, but this site has not independently completed a live redemption test. The page separates source status from redemption-test status for that reason."
+      },
+      {
+        "question": "Are there confirmed expired Steal A Balut codes?",
+        "answer": "This launch page does not publish an expired list without reliable evidence. Unknown or disputed status is not treated as proof of expiry."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "cash",
+      "hatching",
+      "baluts"
+    ],
+    "lastReviewed": "2026-11-05"
+  },
+  {
+    "enabled": true,
+    "slug": "baluts",
+    "pageType": "database",
+    "navLabel": "Baluts",
+    "title": "Steal A Balut Baluts: Duck Collection & Index Guide",
+    "description": "Learn how Baluts hatch ducks in Steal A Balut, how collection works, and where to find confirmed duck details without guessed rarity or drop rates.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Collection guide",
+      "heading": "Steal A Balut Baluts & Duck Collection Guide",
+      "lead": "Baluts hatch ducks and the official description gives players an Index collection goal. This page explains the confirmed collection loop without fabricating a complete duck list, rarity table or drop rates."
+    },
+    "sections": [
+      {
+        "id": "what-are-baluts",
+        "heading": "What Are Baluts in Steal A Balut?",
+        "paragraphs": [
+          "In Steal A Balut, Baluts are part of the central gameplay loop. The official Roblox description says to crack Baluts to hatch rare ducks. That gives the term a clear in-game meaning distinct from the real-world food with the same name.",
+          "The game description also says to collect ducks in an Index, so the collection task is not a made-up wiki category. What is not confirmed in the launch research is the full number of ducks, every duck name, rarity labels, drop probabilities or special Index rewards.",
+          "For that reason, this Steal A Balut Baluts page focuses on mechanics that can be supported now and reserves detailed entries for future verified data. A smaller verified index is more useful than an “all Baluts” list filled with copied or guessed values."
+        ]
+      },
+      {
+        "id": "how-to-collect-ducks",
+        "heading": "How to Collect Ducks",
+        "intro": "The official description supports a simple sequence from Balut to collection. Exact control prompts and map routes still need live gameplay verification.",
+        "subsections": [
+          {
+            "heading": "Hatch New Ducks",
+            "paragraphs": [
+              "Hatching is the acquisition step that belongs on the separate hatching guide. Use it when you need the confirmed sequence without mixing a long tutorial into this collection page."
+            ]
+          },
+          {
+            "heading": "Protect Collected Ducks",
+            "paragraphs": [
+              "Stealing and guards are part of the confirmed game description, but the project did not verify a best protection strategy, safe route or guard AI pattern. Those claims stay out of the page until tested."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "How to Hatch Baluts",
+            "slug": "hatching",
+            "description": "Follow the focused hatch-to-duck flow."
+          }
+        ],
+        "steps": [
+          {
+            "heading": "Crack a Balut",
+            "description": "Use the game’s current interaction to crack a Balut. The official description confirms the crack-to-hatch mechanic but does not document a universal key or button in the research available here."
+          },
+          {
+            "heading": "Hatch a duck",
+            "description": "Baluts can hatch rare ducks according to the official description. This page does not assign a rarity or probability unless that specific detail is verified."
+          },
+          {
+            "heading": "Secure the duck",
+            "description": "The game description includes stealing and escaping guards. Treat routes, guard behavior and tactical claims as unverified unless observed in the live game."
+          },
+          {
+            "heading": "Build collection progress",
+            "description": "The official description tells players to collect ducks in the Index. Exact Index menus, rewards and completion totals are not asserted at launch."
+          }
+        ]
+      },
+      {
+        "id": "confirmed-baluts",
+        "heading": "Confirmed Baluts and Ducks",
+        "intro": "No complete duck-name dataset was verified for this launch, so there is intentionally no fabricated “complete list” table.",
+        "paragraphs": [
+          "Future entries on this page should only be added when the duck name and the claimed fields can be traced to a reliable in-game screenshot, developer source or repeatable gameplay record. Each entry should record the version or review date so players can tell whether an update may have changed the data.",
+          "A useful verified entry can eventually contain a duck name, a rarity label only if the game actually shows one, how it was obtained if observed, the source, and the date last checked. Unknown fields should remain blank or be omitted rather than guessed."
+        ],
+        "table": {
+          "caption": "Launch collection-data status",
+          "columns": [
+            "Field",
+            "Launch status",
+            "What is required before publishing"
+          ],
+          "rows": [
+            [
+              "Duck names",
+              "Not yet verified as a complete set",
+              "Reliable in-game or developer evidence for each name"
+            ],
+            [
+              "Rarity labels",
+              "Not verified",
+              "Visible game label or reliable source"
+            ],
+            [
+              "Drop rates",
+              "Not verified",
+              "Repeatable data or official values"
+            ],
+            [
+              "Index rewards",
+              "Not verified",
+              "Current in-game or developer evidence"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "in-game-index",
+        "heading": "The In-Game Index",
+        "paragraphs": [
+          "The official description explicitly says “collect them all in the Index,” which confirms that collection tracking exists as a game goal. It does not, by itself, confirm the current Index interface, exact completion count, category layout or completion reward.",
+          "When you are checking your own collection, use the current in-game Index as the source of truth. If screenshots or structured entries are added here later, they should match the live client and include a review date so the page does not silently preserve outdated data."
+        ]
+      },
+      {
+        "id": "rare-ducks",
+        "heading": "How to Find Rare Ducks",
+        "paragraphs": [
+          "The only launch-safe claim is that the developer describes the ducks hatched from Baluts as rare. The research does not support a numerical rarity chart, a best Balut type, a guaranteed route or a probability boost.",
+          "A practical evidence-based approach is to keep using the confirmed game loop—find Baluts through normal play, hatch them, secure the resulting ducks and compare the current Index. If the game later exposes rarity names or rates, those can be documented here with their source instead of retrofitting guesses."
+        ],
+        "links": [
+          {
+            "label": "Cash Guide",
+            "slug": "cash",
+            "description": "See how ducks placed in the base connect collection progress to Cash."
+          }
+        ]
+      },
+      {
+        "id": "collection-boundaries",
+        "heading": "What We Do Not Guess",
+        "paragraphs": [
+          "These boundaries are part of the page quality standard. They keep this Steal A Balut Baluts guide useful for players even while the game is changing quickly."
+        ],
+        "bullets": [
+          "No invented “all ducks” total.",
+          "No rarity tiers unless the live game or developer source shows them.",
+          "No drop percentages without evidence.",
+          "No Index completion reward without verification.",
+          "No copied competitor table presented as first-hand research."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are Baluts in Steal A Balut?",
+        "answer": "In the game, Baluts are objects the official description says players crack to hatch rare ducks."
+      },
+      {
+        "question": "How do you get ducks in Steal A Balut?",
+        "answer": "The confirmed core mechanic is to crack Baluts to hatch ducks. Exact controls, locations and probabilities were not verified for this launch."
+      },
+      {
+        "question": "Is there an Index in Steal A Balut?",
+        "answer": "Yes. The official game description tells players to collect ducks in the Index. The exact interface, total count and rewards are not claimed here without further verification."
+      },
+      {
+        "question": "Does this page list every Steal A Balut duck?",
+        "answer": "No. A complete duck dataset was not verified, so this launch does not fabricate or label an incomplete set as “all” Baluts."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "hatching",
+      "cash",
+      "codes"
+    ],
+    "lastReviewed": "2026-11-05"
+  },
+  {
+    "enabled": true,
+    "slug": "hatching",
+    "pageType": "guide",
+    "navLabel": "Hatching",
+    "title": "How to Hatch Baluts in Steal A Balut (Roblox Guide)",
+    "description": "Learn the confirmed basics of hatching Baluts into ducks in Steal A Balut, plus what to check next and where to track your collection.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Hatching guide",
+      "heading": "How to Hatch Baluts in Steal A Balut",
+      "lead": "The confirmed mechanic is simple: crack Baluts to hatch ducks. This walkthrough keeps exact buttons, locations and probabilities out unless they have been verified in the current game client."
+    },
+    "sections": [
+      {
+        "id": "what-hatching-does",
+        "heading": "What Hatching Does",
+        "paragraphs": [
+          "This Steal A Balut hatching guide starts with the mechanic the official Roblox description confirms: crack Baluts to hatch rare ducks. Hatching is the step that turns a Balut into a duck in the core game loop.",
+          "The research available for this launch does not establish one permanent hatch button, a specific keyboard key, a map coordinate, a Cash cost, a timer or a probability table. Those details can change with the live client and should only be added after direct gameplay inspection.",
+          "That distinction matters for a useful hatching guide: the page can answer what the mechanic does and how the verified flow fits together without pretending that an untested interface detail is official."
+        ]
+      },
+      {
+        "id": "how-to-hatch",
+        "heading": "How to Hatch a Balut",
+        "intro": "Use this as the evidence-safe workflow. Where the live game shows a control prompt, follow the current prompt rather than an unverified key name from a third-party page.",
+        "subsections": [
+          {
+            "heading": "Verify the Current Interaction",
+            "paragraphs": [
+              "If the game UI changes, screenshots and control labels on this page should be updated only after direct observation. A visual from another site is useful evidence, but it should not be rewritten as if this guide personally tested it."
+            ]
+          }
+        ],
+        "steps": [
+          {
+            "heading": "Enter the correct Roblox game",
+            "description": "Open the official Steal A Balut experience from the Roblox listing. This avoids mixing in similarly named games or unrelated Balut content."
+          },
+          {
+            "heading": "Find an available Balut",
+            "description": "Locate a Balut through normal gameplay. The launch research does not verify a permanent spawn point, shop path or purchase price, so no specific location is claimed."
+          },
+          {
+            "heading": "Use the displayed crack or hatch interaction",
+            "description": "The official description confirms the action concept. Follow the control prompt shown by the current game client; this guide does not invent a keyboard key or button label."
+          },
+          {
+            "heading": "Confirm the duck outcome",
+            "description": "The official description says a duck hatches from the Balut. Record the result in your own game and compare it with the Index when available instead of assuming a rarity or drop rate."
+          }
+        ]
+      },
+      {
+        "id": "after-hatching",
+        "heading": "What to Do After Hatching",
+        "paragraphs": [
+          "After hatching, the duck can connect to two other confirmed systems. The official description says players can place ducks in their base to earn Cash, and it says players can collect ducks in an Index.",
+          "For economy questions, move to the Cash guide rather than turning this page into a money article. For collection questions, use the Baluts and duck collection page. That keeps the hatching intent focused while still helping a new player continue the loop."
+        ],
+        "links": [
+          {
+            "label": "Baluts & Duck Collection Guide",
+            "slug": "baluts",
+            "description": "Track the confirmed collection mechanics and Index boundaries."
+          },
+          {
+            "label": "Cash Guide",
+            "slug": "cash",
+            "description": "See how base placement connects ducks to Cash."
+          }
+        ]
+      },
+      {
+        "id": "troubleshooting",
+        "heading": "Hatching Troubleshooting",
+        "paragraphs": [
+          "If you cannot hatch a Balut, first confirm that you are in the correct official experience and look for the interaction prompt that the current client presents. The research does not support a universal claim that hatching requires a certain level, a particular tool, a specific amount of Cash or a hidden cooldown.",
+          "If a prompt is missing after an update, rejoin or compare the current game UI with the official description before assuming the mechanic was removed. This page should only document a repeatable bug after it has been observed, not invent a list of generic “known glitches.”"
+        ],
+        "bullets": [
+          "Confirm the exact Roblox experience.",
+          "Look for the current in-game interaction prompt.",
+          "Do not rely on an old keybind if the UI has changed.",
+          "Do not assume a cost, level requirement or probability without evidence."
+        ]
+      },
+      {
+        "id": "hatching-fact-check",
+        "heading": "Hatching Facts vs. Unverified Details",
+        "table": {
+          "caption": "What is confirmed for the launch guide",
+          "columns": [
+            "Topic",
+            "Status",
+            "Launch guidance"
+          ],
+          "rows": [
+            [
+              "Baluts hatch ducks",
+              "Confirmed by official description",
+              "Safe to state"
+            ],
+            [
+              "Ducks can be rare",
+              "Confirmed by official description",
+              "Safe to state without inventing rarity tiers"
+            ],
+            [
+              "Exact hatch button/key",
+              "Not verified",
+              "Follow the live prompt"
+            ],
+            [
+              "Hatch cost",
+              "Not verified",
+              "Do not claim free or paid"
+            ],
+            [
+              "Drop probability",
+              "Not verified",
+              "Do not publish a percentage"
+            ],
+            [
+              "Permanent hatch location",
+              "Not verified",
+              "Do not publish a map coordinate"
+            ]
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do I hatch in Steal A Balut?",
+        "answer": "The official description confirms that players crack Baluts to hatch ducks. In the live game, follow the current crack or hatch interaction prompt; this launch guide does not invent a specific key or button."
+      },
+      {
+        "question": "What comes out of a Balut?",
+        "answer": "The official description says Baluts hatch rare ducks."
+      },
+      {
+        "question": "Does hatching cost Cash?",
+        "answer": "That detail was not verified for this launch, so this guide does not claim that hatching is free or has a specific cost."
+      },
+      {
+        "question": "What should I do after hatching a duck?",
+        "answer": "The official loop connects ducks to the Index collection goal and to a base system where placed ducks earn Cash. Use the Baluts and Cash guides for those tasks."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "baluts",
+      "cash",
+      "codes"
+    ],
+    "lastReviewed": "2026-11-05"
+  },
+  {
+    "enabled": true,
+    "slug": "cash",
+    "pageType": "guide",
+    "navLabel": "Cash Guide",
+    "title": "How to Get Cash Fast in Steal A Balut (Roblox)",
+    "description": "Learn how Cash works in Steal A Balut: hatch ducks, bring them to your base, earn Cash and use upgrades. Includes confirmed code rewards.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Cash guide",
+      "heading": "How to Get Money in Steal A Balut",
+      "lead": "The official game description says ducks placed in your base earn Cash. Use the confirmed loop below, then check the developer-listed Cash code rewards for an immediate boost."
+    },
+    "sections": [
+      {
+        "id": "how-cash-is-earned",
+        "heading": "How Cash Is Earned in Steal A Balut",
+        "paragraphs": [
+          "The strongest confirmed answer is straightforward: the official Steal A Balut description says to place ducks in your base to earn Cash. That means the base is the verified center of the game’s economy loop for this launch guide.",
+          "The description also tells players to upgrade speed and tools. It does not provide the current price of each upgrade, an income-per-second table, an automatic-collection rule or a verified best duck for money. Those details stay out until the current game can be measured directly.",
+          "So when a player searches for Steal A Balut how to get money fast, the useful evidence-based answer is to improve the confirmed loop instead of publishing a fake “millions per hour” formula: obtain ducks, get them safely to the base, use the base earning mechanic, and reinvest only according to the upgrade options actually visible in your client."
+        ]
+      },
+      {
+        "id": "start-earning",
+        "heading": "How to Start Earning Cash",
+        "intro": "This sequence uses only the game loop confirmed in the official description. It intentionally avoids claiming an exact collection button or income rate.",
+        "links": [
+          {
+            "label": "How to Hatch Baluts",
+            "slug": "hatching",
+            "description": "Get the confirmed hatch-to-duck workflow."
+          },
+          {
+            "label": "Baluts & Duck Collection",
+            "slug": "baluts",
+            "description": "Understand how ducks connect to the collection goal."
+          }
+        ],
+        "steps": [
+          {
+            "heading": "Hatch or obtain ducks",
+            "description": "Crack Baluts to hatch ducks through the game’s current interaction. If you need the focused acquisition flow, use the hatching guide."
+          },
+          {
+            "heading": "Get the ducks safely to your base",
+            "description": "The official description includes stealing and guards, but this launch does not claim a best route, guard exploit or guaranteed safe path."
+          },
+          {
+            "heading": "Place ducks in your base",
+            "description": "This is the confirmed Cash-generating step. Follow the current base placement interface shown by the live game."
+          },
+          {
+            "heading": "Use the Cash for progression",
+            "description": "The official description names speed and tool upgrades. Exact prices and the best purchase order require in-game verification."
+          }
+        ]
+      },
+      {
+        "id": "what-to-spend-cash-on",
+        "heading": "What to Spend Cash On",
+        "intro": "The developer description only confirms two upgrade categories at this level of detail: speed and tools.",
+        "subsections": [
+          {
+            "heading": "Speed Upgrades",
+            "paragraphs": [
+              "Speed is explicitly named as an upgrade target in the official description. The launch research does not verify current prices, tiers or the exact performance gain per purchase, so this page does not recommend a numeric break-even point."
+            ]
+          },
+          {
+            "heading": "Tool Upgrades",
+            "paragraphs": [
+              "Tools are also named in the official description. Because the exact tool list and prices were not verified for this launch, only buy according to the items and costs shown in your current game instead of relying on a guessed table here."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cash-codes",
+        "heading": "Codes That Reward Cash",
+        "paragraphs": [
+          "Two of the three developer-listed codes include Cash rewards as checked on November 5, 2026. RELEASED is listed for $25,000 Cash. OG is listed for $100,000 Cash plus 1,000 Speed.",
+          "Those are source-backed reward descriptions, not a guarantee that the codes still redeem in every server. The dedicated codes page shows the full list and keeps the developer-listing status separate from independent redemption testing."
+        ],
+        "links": [
+          {
+            "label": "Steal A Balut Codes",
+            "slug": "codes",
+            "description": "Copy the codes and see the source and redemption-test status."
+          }
+        ],
+        "table": {
+          "caption": "Developer-listed Cash rewards — checked November 5, 2026",
+          "columns": [
+            "Code",
+            "Cash reward",
+            "Other listed reward",
+            "Status"
+          ],
+          "rows": [
+            [
+              "RELEASED",
+              "$25,000",
+              "—",
+              "Developer-listed; not independently redeemed by this site"
+            ],
+            [
+              "OG",
+              "$100,000",
+              "1,000 Speed",
+              "Developer-listed; not independently redeemed by this site"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "improve-cash-loop",
+        "heading": "How to Improve Your Cash Loop Without Fake Numbers",
+        "paragraphs": [
+          "A real optimization guide needs real measurements. Until the game’s duck payouts, upgrade costs and collection behavior are verified, the safest improvement advice is operational: keep the confirmed loop moving, avoid losing time to unsupported “secret method” claims, and compare the options shown in your own client.",
+          "Once reliable gameplay data exists, this page can test questions such as whether one upgrade reduces travel time enough to matter, whether specific ducks have different base income, and whether Cash is collected automatically or manually. None of those possibilities are treated as current facts today.",
+          "This makes the Cash guide less flashy than a fabricated farming calculator, but more useful for a new game. It gives the player the exact confirmed path and clearly marks the data still needed before a “fastest” ranking can be honest."
+        ],
+        "bullets": [
+          "Prioritize the confirmed base loop over unverified farming claims.",
+          "Use current in-game prices rather than copied values with no review date.",
+          "Treat code rewards as a bonus, not proof of a permanent economy strategy.",
+          "Re-check this page after game updates because economy values can change quickly."
+        ]
+      },
+      {
+        "id": "cash-fact-boundaries",
+        "heading": "Cash Facts and Unknowns",
+        "table": {
+          "caption": "Launch Cash evidence boundary",
+          "columns": [
+            "Question",
+            "Launch answer"
+          ],
+          "rows": [
+            [
+              "Do base ducks earn Cash?",
+              "Yes — confirmed by the official game description."
+            ],
+            [
+              "Can codes give Cash?",
+              "Yes — RELEASED and OG are developer-listed with Cash rewards."
+            ],
+            [
+              "Which duck earns the most?",
+              "Not verified."
+            ],
+            [
+              "What is Cash per second?",
+              "Not verified."
+            ],
+            [
+              "Is Cash automatic or manually collected?",
+              "Not verified in this implementation."
+            ],
+            [
+              "What is the best upgrade order?",
+              "Not verified."
+            ]
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you earn Cash in Steal A Balut?",
+        "answer": "The official game description says ducks placed in your base earn Cash. The exact payout and collection behavior were not verified for this launch."
+      },
+      {
+        "question": "Are there Steal A Balut codes that give Cash?",
+        "answer": "Yes. As checked on November 5, 2026, RELEASED is listed for $25,000 Cash and OG for $100,000 Cash plus 1,000 Speed. They are developer-listed, not independently guaranteed by this site."
+      },
+      {
+        "question": "What can you upgrade with Cash?",
+        "answer": "The official description confirms speed and tool upgrades. Exact prices, tiers and the best order are not claimed without current gameplay evidence."
+      },
+      {
+        "question": "Which duck makes the most money?",
+        "answer": "That ranking was not verified for this launch, so this guide does not invent an income table or name a best duck."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "codes",
+      "hatching",
+      "baluts"
+    ],
+    "lastReviewed": "2026-11-05"
+  }
+]

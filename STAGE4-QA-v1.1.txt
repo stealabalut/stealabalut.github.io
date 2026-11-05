@@ -1,0 +1,59 @@
+Steal A Balut — Stage 4 v1.1 QA / 2026-11-05
+
+DELIVERABLE: updated complete Yorich source code; NO repository push and NO deployment.
+
+SCOPE: exactly five planned URLs:
+/ | /codes/ | /baluts/ | /hatching/ | /cash/
+No pre-existing legacy subpages in original source package.
+
+ROOT CAUSE / FIX
+- Original fixed Yorich guidebook template CSS hid .site-nav at widths <=820px and did not expose any mobile toggle. The link row also had no robust tablet strategy.
+- FixedTemplateHeader now retains the original Yorich header chrome/brand/nav HTML while adding a React-controlled, keyboard-operable mobile/tablet Menu button.
+- Scoped fixed-guidebook-header rules switch to collapsible dropdown below 1100px and retain the original horizontal bar at >=1100px.
+- Menu closes on navigation and Escape; button supplies aria-controls and aria-expanded.
+- Existing Header markup, Hero, Footer, SEO content and brand colors are retained; no universal CSS reset.
+
+CHANGED FROM STAGE 4 v1.0
+- components/templates/fixed-template-header.tsx
+- app/globals.css (added strictly prefixed guidebook header CSS; existing rules preserved)
+
+VERIFIED IN THIS ENVIRONMENT
+[PASS] JSON content: home plus exactly four enabled core pages, all with unique title/description/H1 source content, >=3 sections and >=2 FAQs.
+[PASS] Internal content slugs resolve to the five approved routes, and known logo/cover/open-graph files exist.
+[PASS] TypeScript isolated syntax transpilation for fixed-template-header.tsx, data-table.tsx and config/types.ts.
+[PASS, SCOPE LIMITED] Chromium isolated original Yorich Header HTML/CSS + new responsive CSS smoke test:
+  375px: closed none, opened flex, no horizontal overflow.
+  390px: closed none, opened flex, no horizontal overflow.
+  768px: closed none, opened flex, no horizontal overflow.
+  1440px: desktop links flex, Menu hidden, no horizontal overflow.
+This is a CSS/chrome-only test with equivalent DOM, NOT a full Next.js page screenshot nor actual React hydration verification.
+
+NOT VERIFIED / RELEASE GATES
+[UNVERIFIED] npm ci / npm run build. Local registry access failed (EAI_AGAIN), and dependencies are not contained in original ZIP.
+[UNVERIFIED] Production Next app CSS HTTP response and getComputedStyle for all five final HTML routes.
+[UNVERIFIED] Actual before/after full-page screenshots at 375/390/768/1440 for all five routes.
+[UNVERIFIED] Final rendered HTML per-page SEO, Lighthouse/accessibility, actual menu event handling in hydrated Next app.
+[UNVERIFIED] Release authorization: Stage 1 handoff carries DRAFT pending competitor-risk approval.
+[NOT APPLICABLE] Legacy old-page regression: original data has zero existing child pages.
+[NOT APPLICABLE] commit/push/deploy: no repository URL supplied.
+
+IMPORTANT INDEXABILITY BLOCKER
+content/generated/site.json still has readyForLaunch=false.
+The Next metadata generator derives NOINDEX from this flag. Do NOT deploy as a live SEO site with this flag false.
+Only after full build + CSS Network/computed style + browser 20-view screenshot + SEO + facts QA all PASS and explicit release authorization should it be set true.
+
+USER FINAL VERIFICATION IN LOCAL MAC (run inside the unzipped project):
+  npm install
+  npm run typecheck
+  npm run lint
+  npm run build
+  npm run dev
+Then inspect the five routes at 375/390/768/1440 in Chrome DevTools responsive mode, including Menu open/close, computed .site-nav display, asset Network status, screenshot comparison. Run production build when ready.
+
+GATE SUMMARY
+G0 PARTIAL (source baseline yes, screenshot baseline unavailable)
+G1 PASS (limited to change scope)
+G2 UNVERIFIED for actual Next app; isolated header visual smoke PASS
+G3 UNVERIFIED for actual built site; source-level SEO checks PASS
+G4 BLOCKED (not certified to publish)
+Commit: N/A. Live URL: not deployed. Code ZIP is for local preview/final testing.
