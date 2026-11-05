@@ -1,7 +1,7 @@
 "use client";
 
 import { usePathname } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Menu, X } from "lucide-react";
 import { siteConfig } from "@/config/site";
 import { siteSkin } from "@/config/skin";
@@ -13,8 +13,11 @@ import { assetPath, routePath } from "@/lib/urls";
 
 export function FixedTemplateHeader({ links }: { links: InternalLink[] }) {
   const pathname = usePathname() || "/";
+  return <FixedTemplateHeaderContent key={pathname} links={links} pathname={pathname} />;
+}
+
+function FixedTemplateHeaderContent({ links, pathname }: { links: InternalLink[]; pathname: string }) {
   const [menuOpen, setMenuOpen] = useState(false);
-  useEffect(() => { setMenuOpen(false); }, [pathname]);
   if (!isFixedTemplate()) return null;
   const skin = siteSkin();
   const path = pathname.replace(/\/+$/, "") || "/";
